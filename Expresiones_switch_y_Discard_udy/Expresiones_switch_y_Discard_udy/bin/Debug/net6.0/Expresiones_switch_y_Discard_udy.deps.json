@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Expresiones_switch_y_Discard_udy/1.0.0": {
+        "runtime": {
+          "Expresiones_switch_y_Discard_udy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Expresiones_switch_y_Discard_udy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

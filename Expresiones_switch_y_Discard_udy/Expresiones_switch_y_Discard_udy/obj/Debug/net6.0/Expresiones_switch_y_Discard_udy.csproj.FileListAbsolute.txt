@@ -1,0 +1,15 @@
+C:\Users\agomezpa\source\repos\Expresiones_switch_y_Discard_udy\Expresiones_switch_y_Discard_udy\bin\Debug\net6.0\Expresiones_switch_y_Discard_udy.exe
+C:\Users\agomezpa\source\repos\Expresiones_switch_y_Discard_udy\Expresiones_switch_y_Discard_udy\bin\Debug\net6.0\Expresiones_switch_y_Discard_udy.deps.json
+C:\Users\agomezpa\source\repos\Expresiones_switch_y_Discard_udy\Expresiones_switch_y_Discard_udy\bin\Debug\net6.0\Expresiones_switch_y_Discard_udy.runtimeconfig.json
+C:\Users\agomezpa\source\repos\Expresiones_switch_y_Discard_udy\Expresiones_switch_y_Discard_udy\bin\Debug\net6.0\Expresiones_switch_y_Discard_udy.dll
+C:\Users\agomezpa\source\repos\Expresiones_switch_y_Discard_udy\Expresiones_switch_y_Discard_udy\bin\Debug\net6.0\Expresiones_switch_y_Discard_udy.pdb
+C:\Users\agomezpa\source\repos\Expresiones_switch_y_Discard_udy\Expresiones_switch_y_Discard_udy\obj\Debug\net6.0\Expresiones_switch_y_Discard_udy.csproj.AssemblyReference.cache
+C:\Users\agomezpa\source\repos\Expresiones_switch_y_Discard_udy\Expresiones_switch_y_Discard_udy\obj\Debug\net6.0\Expresiones_switch_y_Discard_udy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agomezpa\source\repos\Expresiones_switch_y_Discard_udy\Expresiones_switch_y_Discard_udy\obj\Debug\net6.0\Expresiones_switch_y_Discard_udy.AssemblyInfoInputs.cache
+C:\Users\agomezpa\source\repos\Expresiones_switch_y_Discard_udy\Expresiones_switch_y_Discard_udy\obj\Debug\net6.0\Expresiones_switch_y_Discard_udy.AssemblyInfo.cs
+C:\Users\agomezpa\source\repos\Expresiones_switch_y_Discard_udy\Expresiones_switch_y_Discard_udy\obj\Debug\net6.0\Expresiones_switch_y_Discard_udy.csproj.CoreCompileInputs.cache
+C:\Users\agomezpa\source\repos\Expresiones_switch_y_Discard_udy\Expresiones_switch_y_Discard_udy\obj\Debug\net6.0\Expresiones_switch_y_Discard_udy.dll
+C:\Users\agomezpa\source\repos\Expresiones_switch_y_Discard_udy\Expresiones_switch_y_Discard_udy\obj\Debug\net6.0\refint\Expresiones_switch_y_Discard_udy.dll
+C:\Users\agomezpa\source\repos\Expresiones_switch_y_Discard_udy\Expresiones_switch_y_Discard_udy\obj\Debug\net6.0\Expresiones_switch_y_Discard_udy.pdb
+C:\Users\agomezpa\source\repos\Expresiones_switch_y_Discard_udy\Expresiones_switch_y_Discard_udy\obj\Debug\net6.0\Expresiones_switch_y_Discard_udy.genruntimeconfig.cache
+C:\Users\agomezpa\source\repos\Expresiones_switch_y_Discard_udy\Expresiones_switch_y_Discard_udy\obj\Debug\net6.0\ref\Expresiones_switch_y_Discard_udy.dll
